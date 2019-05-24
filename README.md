@@ -10,3 +10,5 @@ Foram implementados dois exemplos de uso do Mediator, o primeiro aplicado a um [
 ![](https://i.imgur.com/hTWEVy5.png)
 
 ### Diagrama de Classe
+
+![Chat Mediator](https://i.imgur.com/kN3XiWV.png)
