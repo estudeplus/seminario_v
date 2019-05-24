@@ -12,4 +12,4 @@ Foram implementados dois exemplos de uso do Mediator, o primeiro aplicado a um [
 ### Diagrama de Classe
 
 
-![API Gateway](https://i.imgur.com/3BrZnRc.png)
+![API Gateway](https://i.imgur.com/qQGx2T2.png)
