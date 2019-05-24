@@ -11,4 +11,5 @@ Foram implementados dois exemplos de uso do Mediator, o primeiro aplicado a um [
 
 ### Diagrama de Classe
 
-![Chat Mediator](https://i.imgur.com/kN3XiWV.png)
+
+![API Gateway](https://i.imgur.com/3BrZnRc.png)
